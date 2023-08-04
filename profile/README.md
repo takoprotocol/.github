@@ -3,9 +3,13 @@
 </a>
 
 <div align="center">
+
+## Tako Protocol
+
 ### Building The Open Social Recommendation Layer.
 
 ### Recommend, Advertise & Curate On Web3 Social.
 
 #### [tako.so](https://tako.so)
+
 </div>
