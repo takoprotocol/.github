@@ -14,10 +14,6 @@ Tako Protocol offers developers flexible, combinable APIs, a suite of developer-
 In conclusion, Tako upholds the principles of open-source, permissionless, community-driven collaboration and co-creation, positioning itself as an essential player in the transformative journey of the next generation of social networks.
 </p>
 
-<a href="https://tako.so">
-    <img width="100%%" alt="Tako Protocol" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/whatistako.jpg" />
-</a>
-
 ---
 
 ### 2. Tako Open Curation
