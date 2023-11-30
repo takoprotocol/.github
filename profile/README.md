@@ -15,7 +15,7 @@ In conclusion, Tako upholds the principles of open-source, permissionless, commu
 </p>
 
 <a href="https://tako.so">
-    <img width="100%%" alt="Tako Protocol" src="./whatistako.jpg" />
+    <img width="100%%" alt="Tako Protocol" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/whatistako.jpg" />
 </a>
 
 ---
