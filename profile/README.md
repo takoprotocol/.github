@@ -33,11 +33,12 @@ Tako github provides a set of software integrations and developer tools to empow
 - [📖 Introduction](https://docs.tako.so/integration/open-curation)
 - [🚀 For Lens dApp](https://docs.tako.so/integration/open-curation/lens)
 - 🚀 For Farcaster dApp(Coming soon)
+<img align="start" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/opencuration.png" />
 
 ### 3.2 Peer to Peer Curation
-
 - [📖 Introduction](https://docs.tako.so/integration/peer-to-peer-curation)
 - [🚀 For Lens dApp](https://docs.tako.so/integration/peer-to-peer-curation/lens)
 - [🚀 For Farcaster dApp](https://docs.tako.so/integration/peer-to-peer-curation/farcaster)
+<img align="start" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/p2pcuration.png" />
 
 </div>
