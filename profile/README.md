@@ -8,8 +8,8 @@ Building The Open Monetization Layer For Web3 Social
 
 [![Static Badge](https://img.shields.io/badge/tako.so-white?logo=octopusdeploy&logoColor=white&labelColor=brightgreen)](https://tako.so)
 [![Static Badge](https://img.shields.io/badge/Docs-white?logo=googledocs&logoColor=white&labelColor=3A7AF2)](https://docs.tako.so)
-<a href="https://hey.xyz/u/takoprotocol"><img width="125" height="20" src="https://raw.githubusercontent.com/stevenjoe0906/temp-img/main/hey.png" /></a>
-<a href="https://warpcast.com/tako"><img width="68" height="20" src="https://raw.githubusercontent.com/stevenjoe0906/temp-img/main/warpcast.png" /></a>
+<a href="https://hey.xyz/u/takoprotocol"><img width="125" height="20" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/hey.png" /></a>
+<a href="https://warpcast.com/tako"><img width="68" height="20" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/warpcast.png" /></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/TakoProtocol)](https://twitter.com/TakoProtocol)
 [![Discord](https://img.shields.io/discord/1072434829028761630?logo=discord&logoColor=white&label=Discord&labelColor=505AEE&color=white)](https://discord.gg/pg5jDhzMsg)
 
