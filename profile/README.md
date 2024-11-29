@@ -50,7 +50,7 @@ Tako github provides a set of software integrations and developer tools to empow
 ## 4. Apps
 
 <div align="start">
-<a href="https://jamfrens.so"><img width="100" height="100" src="https://tako.so/assets/images/home/jam-logo.png" /></a>
-&nbsp;&nbsp;
-<a href="https://takoyaki.so"><img width="100" height="100" src="https://tako.so/assets/images/home/takoyaki-logo.png" /></a>
+  <a href="https://app.tako.so"><img width="100" height="100" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/tako-logo.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://jam.so"><img width="100" height="100" src="https://raw.githubusercontent.com/takoprotocol/.github/main/profile/jam-logo.png" /></a>
 <div>
